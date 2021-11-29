@@ -1,5 +1,2 @@
-# VersionControl-GithubChallenge
-<<<<<<< Updated upstream
-=======
+VersionControl-GithubChallenge
 
->>>>>>> Stashed changes
